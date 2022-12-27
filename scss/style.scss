@@ -1,3 +1,6 @@
-*{
-   box-sizing: border-box;
-}
+// Базовые настройки сетки
+@import 'grid';
+
+// Шапка
+
+@import 'blocks/navbar';

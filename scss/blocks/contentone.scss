@@ -1,0 +1,31 @@
+.contentone{
+   display: flex;
+   align-items: center;
+   padding: 65px 30px 25px;
+}
+.button{
+   background-color: transparent;
+   height: 20px;
+   width: 32px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   border: none;
+   margin: 0px 0px 0px 162px;
+}
+.line{
+   width: 25px;
+   height: 4px;
+   display: block;
+   margin: 2px 0;
+   color: red;
+}
+.discription{
+   padding: 0 30px;
+}
+.header_text{
+   font-size: 47px;
+   font-weight: bold;
+   margin: 0 0;
+}
